@@ -1,4 +1,4 @@
-### Olá, eu sou Jupters 👋
+### Olá, eu sou Jupters  👋
 
 ✨ **Estudante** na [DIO](https://dio.me).
 🏢 **Atuação Profissional**
